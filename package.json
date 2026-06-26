@@ -1,5 +1,5 @@
 {
-  "name": "@insightbazi/five-elements-colors",
+  "name": "five-elements-colors",
   "version": "1.0.0",
   "description": "Five Elements (Wu Xing) color palette for BaZi / Four Pillars of Destiny apps",
   "main": "index.js",

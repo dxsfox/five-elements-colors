@@ -3,7 +3,7 @@
 > Chinese Five Elements (Wu Xing) color palette for BaZi & Chinese metaphysics apps.
 
 ```bash
-npm install @insightbazi/five-elements-colors
+npm install five-elements-colors
 ```
 
 ## Usage
@@ -11,7 +11,7 @@ npm install @insightbazi/five-elements-colors
 ### JS/TS
 
 ```ts
-import { elements, getElement } from '@insightbazi/five-elements-colors';
+import { elements, getElement } from 'five-elements-colors';
 
 // All elements
 console.log(elements.wood.hex);   // '#4CAF50'
